@@ -5,17 +5,17 @@ The purpose of this analysis is to determine classification model performance ba
 ## *Resampling Models:*
 
 ## Naive Random Oversampling
-![Naive Oversampling](images/NAIVE_Oversampling.PNG)
+![Naive Oversampling](Images/NAIVE_Oversampling.PNG)
 
 ## SMOT Oversampling
-![SMOT](images/SMOT.PNG)
+![SMOT](Images/SMOT.PNG)
 
 ## Undersampling (Cluster Centroids)
-![Cluster](images/Undersampling_Cluster.PNG)
+![Cluster](Images/Undersampling_Cluster.PNG)
 
 
 ## SMOTEEN Combination Sampling
-![SMOTEEN](images/Combination_SMOTEEN.PNG)
+![SMOTEEN](Images/Combination_SMOTEEN.PNG)
 
 ## Findings:
  - Which model had the best balanced accuracy score?
@@ -28,11 +28,11 @@ The purpose of this analysis is to determine classification model performance ba
 ## *Ensemble Models:*
 
 ## Balanced Random Forest Classifier
-![Balanced](images/Balanced_Random_Forest.PNG)
+![Balanced](Images/Balanced_Random_Forest.PNG)
 
 ## AdaBoost
 
-![ada](images/Adaboost.PNG)
+![ada](Images/Adaboost.PNG)
 
 ## Findings:
  - Which model had the best balanced accuracy score?
